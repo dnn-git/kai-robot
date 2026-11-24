@@ -1,0 +1,10 @@
+Source: kai
+Section: utils
+Priority: optional
+Maintainer: dnn-git <jxj8386@hotmail.com>
+Standards-Version: 4.6.2
+
+Package: kai
+Architecture: amd64
+Description: Người bạn robot nhỏ trên màn hình GNOME
+ Trợ lý đồng hành desktop dành cho Ubuntu và GNOME.

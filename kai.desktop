@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Kai
+GenericName=Desktop Robot
+Comment=Robot giải trí offline với biểu cảm, đồng hồ và bấm giờ
+Exec=/home/USER/.local/bin/kai
+Icon=kai
+Terminal=false
+Categories=Amusement;
+StartupNotify=false
+Keywords=robot;companion;desktop;Kai;
+StartupWMClass=vn.dnn.Kai
