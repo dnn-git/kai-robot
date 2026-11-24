@@ -1,4 +1,4 @@
-# 🤖 Kai — Trợ lý đồng hành trên màn hình
+# 🤖 Kai — Robot nhỏ offline mang tính giải trí 
 
 **Một chú robot nhỏ sống trên desktop Ubuntu / GNOME của bạn.**
 Biết chào theo buổi, chớp mắt, ngáp, vẫy tay, đổi biểu cảm, xem giờ, bấm giờ — và nhắc bạn đi ngủ.
